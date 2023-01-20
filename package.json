@@ -1,0 +1,28 @@
+{
+    "name": "team-manager",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index",
+      "dev": "nodemon index",
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/RyanTrian/Team-Profile-Generator-WK10.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/RyanTrian/Team-Profile-Generator-WK10/issues"
+    },
+    "homepage": "https://github.com/RyanTrian/Team-Profile-Generator-WK10#readme",
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+      "jest": "^24.8.0"
+    }
+  }
